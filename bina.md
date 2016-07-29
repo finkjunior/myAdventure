@@ -6,3 +6,4 @@ Agente Bina
 	- 50 G;
 	- Potion x2;
 	- Piadas sem graça.
+	- Repelente.
